@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.DS_Store
+data/
+reports/
+*.zip
+*.tif
+*.tiff
+*.parquet
+*.pth
+*.pt
+*.ckpt
+.ipynb_checkpoints/
